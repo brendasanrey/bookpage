@@ -233,14 +233,14 @@
 
 .counter-item i{
 	color: #fed948;
-	font-size: 2.7em;
+	font-size: 2rem;
 }
 
 .counter-item h2{
 	color: #fff;
 	font-weight: bold;
 	font-family: 'Lato', sans-serif;
-	font-size: 2em;
+	font-size: 1.7rem;
 }
 
 .counter-item p{
@@ -412,7 +412,6 @@
 #copyright{
 	color: #b1afaf;
 	font-size: 0.6em;
-	width: 50%;
 	padding-top: 5px;
 
 }
@@ -429,12 +428,12 @@
 
 .scroll-top a{
 	background-color: #fed948;
-	padding: 15px 17px;
+	padding: 10px 15px;
 }
 
 .scroll-top i{
 	color: #462444;
-	font-size: 1.5em;
+	font-size: 1rem;
 }
 
 /***************************** Auxiliares *****************************/
