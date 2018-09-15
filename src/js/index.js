@@ -98,12 +98,12 @@ $(document).ready(function () { //slider
   });
 });
 
-$(document).ready(function () { //contador 
+/*$(document).ready(function () { //contador 
   $('.counter').counterUp({
     delay: 10,
     time: 1000
   });
-});
+});*/
 
 $(document).ready(function () {
   'use strict';
