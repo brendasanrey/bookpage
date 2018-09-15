@@ -176,13 +176,13 @@
 }
 
 .left-item h3{
-	font-size: 1.5em;
+	font-size: 1.3rem;
 	font-weight: bold;
 }
 
 .left-item p{
 	line-height: 15px;
-	font-size: 1.2em;
+	font-size: 0.9rem;
 	text-align: justify;
 }
 
@@ -214,6 +214,11 @@
 .slider .item img{
 	width: 60%;
 	height: 90%;
+}
+.bx-wrapper{
+	background: inherit;
+	border: none;
+	box-shadow: inherit;
 }
 /************************** Seccion 5 Counter *************************/
 
