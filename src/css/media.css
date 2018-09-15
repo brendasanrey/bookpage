@@ -1,0 +1,110 @@
+@media only screen and (max-width: 768px) {
+    .header-img img{
+        width: 50%;
+        margin-top: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .btn-yellow,
+    .btn-yellow:focus,
+    .btn-yellow:active,
+    .btn-yellow:visited{
+        padding: 10px;
+    }
+
+    .back-img{
+        background-size: auto;
+    }
+
+    .hand-book img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+
+    .btn-buy a{
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .counter-overlay{
+        padding: 70px 0 70px 0;
+    }
+
+    .counter-pad{
+        padding-bottom: 50px;
+    }
+
+    .available-item{
+        border-top: 1px solid #562e54;
+
+    }
+
+    .left-item{
+        padding-left: 0;
+    }
+    
+    .center-title{
+        text-align: center;
+    }
+
+    .just-text{
+        text-align: justify;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px) {
+    .header-img img{
+        width: 50%;
+        margin-top: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .back-img{
+        background-size: auto;
+    }
+
+    .hand-book img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+
+    .btn-buy a{
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .center-title{
+        text-align: center;
+    }
+
+    .just-text{
+        text-align: justify;
+    }
+
+    .available-item{
+        border-top: 1px solid #562e54;
+        border-left: none;
+        border-right: none;
+
+    }
+
+    .item-center{
+        border-right: 1px solid #562e54;
+        border-left: 1px solid #562e54;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1999px){
+    .available-item{
+        height: 120px;
+    }
+}
